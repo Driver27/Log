@@ -1,0 +1,66 @@
+[04/16/2023 22:04:43] Software version: 1.2.8493.9279
+[04/16/2023 22:04:43] Windows 11 Pro (x64) Version 10.0.22621 SP 0.0
+[04/16/2023 22:04:43] Screen [1] - depth: 32bit - resolution: 2560x1440
+[04/16/2023 22:04:43] Screen [1] - position: 0x0
+[04/16/2023 22:04:43] [Modifier Pause] Control key set to:False
+[04/16/2023 22:04:43] [Modifier Pause] Shift key set to:False
+[04/16/2023 22:05:03] Make sure the addon: solter is enabled in your list of WoW Addons or the rotation bot will fail to work.
+[04/16/2023 22:05:03] WoW Path: C:\Program Files (x86)\World of Warcraft
+[04/16/2023 22:05:03] Classic is allowed: True
+[04/16/2023 22:05:03] Retail is allowed: True
+[04/16/2023 22:05:03] Loading rotation [Dragonflight/Paladin/Paladin-Retribution-DF-Vec.dll.enc]...
+[04/16/2023 22:05:03] Downloading the rotation from the server: Dragonflight/Paladin/Paladin-Retribution-DF-Vec.dll.enc
+[04/16/2023 22:05:03] Loading DLL Paladin-Retribution-DF-Vec, Version=23.4.14.0, Culture=neutral, PublicKeyToken=null
+[04/16/2023 22:05:03] Loading rotation with Profile: Default
+[04/16/2023 22:05:03] Using Pulse Frequency (ms) = 100
+[04/16/2023 22:05:03] Using In Game Pulse Frequency (ms) = 100
+[04/16/2023 22:05:03] Using Precast Window (cs) = 20
+[04/16/2023 22:05:03] debug: none
+[04/16/2023 22:05:03] Welcome to Dragonflight Paladin Retribution Rotation v. 23.4.14.0
+[04/16/2023 22:05:04] debug: none
+[04/16/2023 22:05:04] Autobind Activated with Keyboard Layout: 1031
+[04/16/2023 22:05:04] AddOn Path: C:\Program Files (x86)\World of Warcraft\_retail_\Interface\AddOns\solter
+[04/16/2023 22:05:04] Creating addon [solter]...
+[04/16/2023 22:05:04] Pause macro for your addon /solte Pause
+[04/16/2023 22:05:04] Keys used by Autobind Healing Macros: NumP0-9 F1-4
+[04/16/2023 22:05:04] Keys used by Autobind Macros: F6-12 K L G
+[04/16/2023 22:05:04] Keys Code used by Autobind: OemPeriod:. Oemcomma:, D7:7 D8:8 D9:9 D0:0 OemMinus:- OemOpenBrackets:ß Oem6:´ Oem1:ü Oem7:ä Oemplus:+ 
+[04/16/2023 22:05:04] A new Addon file has been generated, please use /reload in game.
+[04/16/2023 22:05:04] Starting bot...
+[04/16/2023 22:05:04] Rotation paused until WoW Window has focus again.
+[04/16/2023 22:05:09] Bot Paused successfully.
+[04/16/2023 22:05:09] Make sure the addon: solter is enabled in your list of WoW Addons or the rotation bot will fail to work.
+[04/16/2023 22:05:09] WoW Path: C:\Program Files (x86)\World of Warcraft
+[04/16/2023 22:05:09] Stopping Character Info Thread...
+[04/16/2023 22:05:09] Stopping Pulse() timer...
+[04/16/2023 22:05:09] Classic is allowed: True
+[04/16/2023 22:05:09] Retail is allowed: True
+[04/16/2023 22:05:09] Loading rotation [Dragonflight/Paladin/Paladin-Retribution-DF-Vec.dll.enc]...
+[04/16/2023 22:05:09] Downloading the rotation from the server: Dragonflight/Paladin/Paladin-Retribution-DF-Vec.dll.enc
+[04/16/2023 22:05:09] Loading DLL Paladin-Retribution-DF-Vec, Version=23.4.14.0, Culture=neutral, PublicKeyToken=null
+[04/16/2023 22:05:09] Loading rotation with Profile: Default
+[04/16/2023 22:05:09] Using Pulse Frequency (ms) = 100
+[04/16/2023 22:05:09] Using In Game Pulse Frequency (ms) = 100
+[04/16/2023 22:05:09] Using Precast Window (cs) = 20
+[04/16/2023 22:05:09] debug: none
+[04/16/2023 22:05:09] Welcome to Dragonflight Paladin Retribution Rotation v. 23.4.14.0
+[04/16/2023 22:05:09] debug: none
+[04/16/2023 22:05:09] Autobind Activated with Keyboard Layout: 1031
+[04/16/2023 22:05:09] AddOn Path: C:\Program Files (x86)\World of Warcraft\_retail_\Interface\AddOns\solter
+[04/16/2023 22:05:09] Creating addon [solter]...
+[04/16/2023 22:05:09] Pause macro for your addon /solte Pause
+[04/16/2023 22:05:09] Keys used by Autobind Healing Macros: NumP0-9 F1-4
+[04/16/2023 22:05:09] Keys used by Autobind Macros: F6-12 K L G
+[04/16/2023 22:05:09] Keys Code used by Autobind: OemPeriod:. Oemcomma:, D7:7 D8:8 D9:9 D0:0 OemMinus:- OemOpenBrackets:ß Oem6:´ Oem1:ü Oem7:ä Oemplus:+ 
+[04/16/2023 22:05:09] A new Addon file has been generated, please use /reload in game.
+[04/16/2023 22:05:09] Starting bot...
+[04/16/2023 22:05:09] Rotation paused until WoW Window has focus again.
+[04/16/2023 22:05:12] Bot Paused successfully.
+[04/16/2023 22:05:12] Starting bot...
+[04/16/2023 22:05:12] Rotation paused until WoW Window has focus again.
+[04/16/2023 22:05:17] application closing...
+[04/16/2023 22:05:17]  - Combat Routine...
+[04/16/2023 22:05:17] Stopping Character Info Thread...
+[04/16/2023 22:05:17] Stopping Pulse() timer...
+[04/16/2023 22:05:17]  - Unloading Keyboard...
+[04/16/2023 22:05:17] Cleanup Completed.
